@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Text slider</string>
+    <string name="text_to_slide">Text to slide:</string>
+    <string name="text_color">Text color:</string>
+    <string name="background_color">Background color:</string>
+    <string name="speed">Speed:</string>
+    <string name="play">Play!</string>
+    <string name="text_size">Text size:</string>
+</resources>
