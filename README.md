@@ -1,0 +1,1 @@
+Android app (Java) that displays animated text
